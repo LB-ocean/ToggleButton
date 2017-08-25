@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.togglebutton.activity.MainActivity">
+
+    <com.example.togglebutton.myview.ToggleSwitchView
+        android:id="@+id/toggleView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:animatorTime ="1000"
+        app:dotBg = "@color/darkblue"
+       />
+
+</RelativeLayout>

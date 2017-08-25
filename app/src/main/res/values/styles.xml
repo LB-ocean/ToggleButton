@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <declare-styleable name="ToggleView">
+        <!--关闭背景颜色-->
+        <attr name="switchCloseBg" format="dimension|color"/>
+        <!--打开背景颜色-->
+        <attr name="switchOpenBg" format="dimension|color"/>
+        <!--圆点背景颜色-->
+        <attr name="dotBg" format="dimension|color"/>
+        <!--画笔宽度-->
+        <attr name="paintWidth" format="dimension"/>
+        <!--动画时间-->
+        <attr name="animatorTime" format="integer"/>
+        <!--圆点间隙-->
+        <attr name="dotGap" format="dimension"/>
+
+    </declare-styleable>
+</resources>
