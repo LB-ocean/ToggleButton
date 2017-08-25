@@ -4,6 +4,6 @@
 
 #效果图
 
-       ![img](https://github.com/LB-ocean/ToggleButton/raw/master/device_switch.gif)
+       ![img](https://github.com/LB-ocean/ToggleButton/device_switch.gif)
 
     后期还会上传更多的 自定义view,一起学习,一起进步;
