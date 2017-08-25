@@ -4,6 +4,6 @@
 
 #效果图
 
-       ![image](ToggleButton/screenshot/device_switch.gif)
 
+![image](https://github.com/ToggleButton/screenshot/device_switch.gif )
     后期还会上传更多的 自定义view,一起学习,一起进步;
