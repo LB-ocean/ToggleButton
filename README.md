@@ -3,6 +3,6 @@
     直接上图吧
 #效果图
 
-    ![image](https://github.com/LB-ocean/ToggleButton/screenshot/device_switch.gif)
+![image](https://github.com/LB-ocean/ToggleButton/screenshot/device_switch.gif)
 
     后期还会上传更多的 自定义view,一起学习,一起进步;
