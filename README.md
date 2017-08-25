@@ -5,5 +5,5 @@
 #效果图
 
 
-    ![image](https://github.com/ToggleButton/raw/master/screenshot/device_switch.gif )
+    ![](https://github.com/ToggleButton/raw/master/screenshot/device_switch.gif )
     后期还会上传更多的 自定义view,一起学习,一起进步;
