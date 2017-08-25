@@ -10,8 +10,5 @@
     后期还会上传更多的 自定义view,一起学习,一起进步;
 
 
-    依赖文件地址:
-    	dependencies {
-    	        compile 'com.github.LB-ocean:ToggleButton:1.0'
-    	}
+
 
